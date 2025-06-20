@@ -30,7 +30,10 @@
 		{"id":"9bf9596450fa7ad2","type":"file","file":"Математика/Алгебра/Линейная алгебра/Матрица/Геометрический смысл ранга и минора матрицы.md","x":1100,"y":3700,"width":520,"height":820},
 		{"id":"0b45f391bf485e5a","type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Система линейных алгебраических уравнений (System of linear equations).md","x":1740,"y":-340,"width":640,"height":358},
 		{"id":"3e20deeae14b4a02","type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Матричное представление СЛАУ.md","x":1800,"y":80,"width":520,"height":340},
-		{"id":"3467ae3de4b94c01","x":1800,"y":480,"width":520,"height":240,"type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Расширенная матрица (Augmented matrix).md"}
+		{"id":"3467ae3de4b94c01","type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Расширенная матрица (Augmented matrix).md","x":1800,"y":480,"width":520,"height":240},
+		{"id":"dd744aade9b60727","type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Совместная и несовместная система (Consistent and Inconsistent linear system).md","x":1800,"y":780,"width":520,"height":300},
+		{"id":"19439ab963a7e76f","x":1800,"y":1140,"width":520,"height":400,"type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Определённая и неопределённая система (Linear system with a single solution and Undeterminated system).md"},
+		{"id":"f4efaa20219ba254","x":1800,"y":1600,"width":520,"height":280,"type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Частное и общее решение (Partial and General solution).md"}
 	],
 	"edges":[]
 }
