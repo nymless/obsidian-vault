@@ -32,8 +32,10 @@
 		{"id":"3e20deeae14b4a02","type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Матричное представление СЛАУ.md","x":1800,"y":80,"width":520,"height":340},
 		{"id":"3467ae3de4b94c01","type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Расширенная матрица (Augmented matrix).md","x":1800,"y":480,"width":520,"height":240},
 		{"id":"dd744aade9b60727","type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Совместная и несовместная система (Consistent and Inconsistent linear system).md","x":1800,"y":780,"width":520,"height":300},
-		{"id":"19439ab963a7e76f","x":1800,"y":1140,"width":520,"height":400,"type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Определённая и неопределённая система (Linear system with a single solution and Undeterminated system).md"},
-		{"id":"f4efaa20219ba254","x":1800,"y":1600,"width":520,"height":280,"type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Частное и общее решение (Partial and General solution).md"}
+		{"id":"19439ab963a7e76f","type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Определённая и неопределённая система (Linear system with a single solution and Undeterminated system).md","x":1800,"y":1140,"width":520,"height":400},
+		{"id":"f4efaa20219ba254","type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Частное и общее решение (Partial and General solution).md","x":1800,"y":1600,"width":520,"height":280},
+		{"id":"f8e44f36004f1263","x":1800,"y":1940,"width":520,"height":420,"type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Однородная и неоднородная система (Homogeneous and Nonhomogeneous system).md"},
+		{"id":"934c6d3870e9cf07","x":1800,"y":2420,"width":520,"height":320,"type":"file","file":"Математика/Алгебра/Линейная алгебра/СЛАУ/Теорема Кронекера-Капелли (Rouché–Capelli theorem).md"}
 	],
 	"edges":[]
 }
