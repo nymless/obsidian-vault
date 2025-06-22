@@ -1,0 +1,4 @@
+[[Нормированное пространство (Normed vector space)|Нормированным пространством]] называется пара $(X,\lVert \cdot\rVert)$ из векторного пространства $X$ над полем $\mathbb{R}$ или $\mathbb{C}$ и отображения $\lVert\cdot\rVert: X \rightarrow \mathbb{R}$ таких, что выполняются следующие **аксиомы нормированного пространства** для любых векторов $x,y$ и скаляра $\lambda$:
+1. $\lVert x\rVert \geq 0, \: \lVert x\rVert =0 \Rightarrow x=0$ - **положительная определённость**;
+2. $\lVert \lambda x \rVert=|\lambda| \cdot \lVert x\rVert$ - **однородность**;
+3. $\lVert x+y \rVert \leq \lVert x \rVert + \lVert y \rVert$ - **неравенство треугольника**.
