@@ -1,4 +1,4 @@
-Свойства [[Линейный оператор (Linear map, Linear transformation)|линейного оператора]]:
+Свойства [[Линейный оператор (Linear map, Linear mapping)|линейного оператора]]:
 1. $A(x+y)= Ax + Ay$ - **аддитивность**;
 2. $A(\lambda x)=\lambda Ax$ - **однородность**.
 
