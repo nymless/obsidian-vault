@@ -1,7 +1,7 @@
 **Норма Фробениуса** - [[Норма матрицы (Matrix norm)|матричная норма]], соответствующая [[Евклидово пространство (Inner product space)|евклидову пространству]] матриц относительно **фробениусова скалярного произведения** (frobenius inner product) и равная:$$\lVert A\rVert_{F}=\sqrt{\sum_{i=1}^m\sum_{j=1}^n|a_{ij}|^2}$$**Свойства** нормы Фробениуса:
 - $\lVert Ax\rVert_2\leq\lVert A\rVert_F \ \lVert x\rVert_2$ - [[Согласованная норма (Consistent norm)|согласованность]] с [[Норма вектора (Vector norm)|векторной]] $L_2$-нормой;
 - $\lVert AB\rVert_F\leq\lVert A\rVert_F \ \lVert B\rVert_F$ - **субмультипликативность**;
-- $\lVert A\rVert_F^2=\text{tr}A^*A=\text{tr}AA^*$, где $\text{tr}$ - [[След матрицы (Trace of a matrix)|след матрицы]], $A^*$ - [[Эрмитово сопряжённая матрица (Hermitian adjoint)|эрмитово сопряжённая матрица]];
+- $\lVert A\rVert_F^2=\text{tr}A^*A=\text{tr}AA^*$, где $\text{tr}$ - [[След матрицы (Trace of a matrix)|след матрицы]], $A^*$ - [[Эрмитово-сопряжённая матрица (Hermitian adjoint)|эрмитово сопряжённая матрица]];
 - $\lVert A\rVert_F^2=\rho_1^2+\dots+\rho_n^2$, где $\rho_1,\dots,\rho_n$ - [[Сингулярные числа и сингулярные векторы (Singular values and Singular vectors)|сингулярные числа]] матрицы $A$.
 - $\lVert A\rVert_F\leq\lVert A\rVert_2$, где $\lVert\cdot\rVert_2$ - [[L2 норма (L2 norm)|спектральная норма]].
 - $\lVert A\rVert_F$ не изменяется при умножении матрицы $A$ слева или справа на [[Ортогональная матрица (Orthogonal matrix)|ортогональные]] ([[Унитарная матрица (Unitary matrix)|унитарные]]) матрицы.
