@@ -1,1 +1,2 @@
-[[Норма матрицы (Matrix norm)|Матричная норма]] $\lVert A \rVert$ называется **согласованной** с [[Норма вектора (Vector norm)|векторными нормами]] $\lVert Ax \rVert$ и $\lVert x \rVert$, если справедливо неравенство:$$\lVert Ax \rVert \leq \lVert A \rVert \cdot \lVert x \rVert$$
+[[Норма матрицы (Matrix norm)|Матричная норма]] $\lVert A \rVert$ называется **согласованной** с [[Норма вектора (Vector norm)|векторными нормами]] $\lVert Ax \rVert$ и $\lVert x \rVert$, если справедливо неравенство:$$\lVert Ax \rVert \leq \lVert A \rVert \cdot \lVert x \rVert$$**Теорема**:
+Любая согласованная норма линейного оператора **не меньше**, чем максимальное по модулю собственное число этого оператора.
