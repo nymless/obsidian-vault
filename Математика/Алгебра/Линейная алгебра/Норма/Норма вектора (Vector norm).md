@@ -3,4 +3,4 @@
 2. $\lVert \lambda x \rVert=|\lambda| \cdot \lVert x\rVert$ - **однородность**;
 3. $\lVert x+y \rVert \leq \lVert x \rVert + \lVert y \rVert$ - **неравенство треугольника**.
 
-**Гёлдеровы нормы** $n$-мерных векторов - это норма вектора в **общем виде**:$$\lVert x\rVert_p=\Bigl(\sum_{i=1}^n |x_i|^p\Bigr)^{1/p},\quad p\geq1$$**Расстояние Минковского**:$$\rho(x,y)=\Bigl(\sum_{i=1}^n |x_i-y_i|^p\Bigr)^{1/p}$$
+**Гёлдеровы нормы** $n$-мерных векторов в [[Евклидово пространство (Inner product space)|евклидовом пространстве]] - это норма вектора в **общем виде**:$$\lVert x\rVert_p=\Bigl(\sum_{i=1}^n |x_i|^p\Bigr)^{1/p},\quad p\geq1$$**Расстояние Минковского**:$$\rho(x,y)=\Bigl(\sum_{i=1}^n |x_i-y_i|^p\Bigr)^{1/p}$$
