@@ -1,7 +1,7 @@
 Норма вектора $w$ минимальна там же, где минимальна его [[Квадратичная форма (Quadratic form)|квадратичная форма]] вида $\langle w,w \rangle$. Построение оптимальной разделяющей гиперплоскости сводится к минимизации квадратичной формы при $m$ ограничениях-неравенствах относительно переменных $w$, $w_0$:$$\begin{cases} \langle w,w \rangle \rightarrow \min \\ y_i \big( \langle w,x_i \rangle - w_0 \big) \geq 1, \quad i=\overline{1,m}. \end{cases}$$По [[Теорема Куна-Таккера|теореме Куна-Таккера]] эта задача эквивалентна двойственной задаче поиска **седловой точки Лагранжа**:$$\begin{cases}
 \mathcal{L}(w,w_0;\lambda) = \frac{1}{2}\langle w,w \rangle - \\ 
--\sum_{i=1}^m \lambda_i \Big( y_i \big( \langle w,x_i \rangle - w_0 \big) - 1 \Big) \rightarrow \underset{w,w_o}{\min} \underset{\lambda}{\max}; \\
-\lambda_i = 0, \quad \text{либо} \quad \langle w,x_i \rangle - w_0 = y_i, \quad i = \overline{1,m}; \\
+-\sum_{i=1}^m \lambda_i \Big( y_i \big( \langle w,x_i \rangle - w_0 \big) - 1 \Big) \rightarrow \underset{w,w_0}{\min} \underset{\lambda}{\max}; \\
+\lambda_i = 0, \quad \text{либо} \quad y_i\big(\langle w,x_i \rangle - w_0\big) = 1, \quad i = \overline{1,m}; \\
 \lambda_i \geq 0, \quad i=\overline{1,m}; \\
 \end{cases}$$где $\lambda = (\lambda_1,...,\lambda_m)$ - вектор двойственных переменных. Второе условие называется [[Условия Каруша-Куна-Таккера (Karush-Kuhn-Tucker conditions)|условием дополняющей нежёсткости]].
 
