@@ -1,4 +1,4 @@
-**Lasso-регрессия** (LASSO - Least Absolute Shrinkage and Selection Operator) - метод оценивания коэффициентов [[Линейная регрессия|линейной регрессионной модели]]. В отличие от Ridge-регрессии, метод использует **$L_1$-регуляризацию**. Функция потерь имеет вид:
+**Lasso-регрессия** (LASSO - Least Absolute Shrinkage and Selection Operator) - метод оценивания коэффициентов [[Линейная регрессия (Linear regression)|линейной регрессионной модели]]. В отличие от Ridge-регрессии, метод использует **$L_1$-регуляризацию**. Функция потерь имеет вид:
 $$
 L_{Lasso}(w;y,X) = \lVert y-Xw \rVert_2^2 + \alpha\lVert w\rVert_1
 $$
