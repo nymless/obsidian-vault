@@ -14,7 +14,7 @@ M_i = y_i\big( \langle w,x_i \rangle - w_0 \big) \geq 1 - \xi_i, \quad i=\overli
 \mathcal{L}(w,w_0,\xi;\lambda,\eta) \rightarrow \underset{w,w_0,\xi}{\min} \underset{\lambda,\eta}{\max};\\
 \xi_i \geq 0,\quad \lambda_i\geq 0,\quad \eta_i \geq 0,\quad i = \overline{1,m};\\
 \lambda_i = 0,\quad\text{либо}\quad y_i\big(\langle w,w \rangle-w_0\big)=1-\xi_i,\quad i=\overline{1,m};\\
-\eta_i = 0,\quad\text{либо}\xi_i=0,\quad i=\overline{1,m}.\\
+\eta_i = 0,\quad\text{либо}\quad\xi_i=0,\quad i=\overline{1,m}.\\
 \end{cases}$$ В последних двух строчках написаны условия дополняющей нежёсткости. Необходимым условием седловой точки является равенство нулю частных производных лагранжиана. Производные по $w$ и $w_0$ в точности соответствуют производным лагранжиана в линейно разделимом случае, тогда как производная по $\xi_i$ приводит к соотношению:$$\eta_i + \lambda_i = C,\quad i=\overline{1,m}.$$Из этого соотношения и неравенства $\eta_i \geq 0$ следует ограничение $\lambda_i \leq C$. Отсюда, и из условий дополняющей нежёсткости вытекает, что возможны только **три** допустимых сочетания значений переменных $\xi_i,\lambda_i,\eta_i$ и отступов $M_i$:
 1. $\lambda_i=0$; $\eta_i=C$, $\xi_i=0$; $M_i>1$ - объект $x_i$ классифицируется правильно и находится далеко от разделяющей полосы.
 2. $0<\lambda_i<C$; $0<\eta_i<C$; $\xi_i=0$; $M_i=1$ - объект $x_i$ классифицируется правильно и лежит в точности на границе разделяющей полосы.
