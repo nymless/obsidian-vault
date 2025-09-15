@@ -1,0 +1,1 @@
+**Генерация, дополненная поиском** (Retrieval-Augmented Generation, RAG) - 
