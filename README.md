@@ -36,7 +36,7 @@
 	- Основы.
 - [Теория вероятностей](images/probability_theory.png) (PNG - 1 MB):
 	- Основы.
-- [Cтатистика](images/math_statistics.png) (PNG - 1.7 MB):
+- [Cтатистика](statistics.png) (PNG - 13 MB):
 	- Математическая и прикладная статистика;
 	- Дизайн исследований;
 	- Пропуски в данных;
