@@ -34,7 +34,7 @@
 	- Матрично-векторное дифференцирование.
 - [Комбинаторика](images/combinatorics.png) (PNG - 1.6 MB).
 - [Теория вероятностей](images/probability_theory.png) (PNG - 1 MB).
-- [Cтатистика](statistics.png) (PNG - 13 MB):
+- [Cтатистика](images/statistics.png) (PNG - 13 MB):
 	- Математическая и прикладная статистика;
 	- Дизайн исследований;
 	- Пропуски в данных;
